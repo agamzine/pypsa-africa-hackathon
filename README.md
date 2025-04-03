@@ -47,3 +47,5 @@ Useful packages to dive deeper into:
 - Pierre McWhannel from Canada
 - Mariana Rodríguez-Arce from Costa Rica
 - Hana Elattar from Egypt---
+
+Artem Gamzin
